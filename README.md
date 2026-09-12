@@ -1,7 +1,7 @@
 # Spatial-ecology-practice
-# Quantitative Biodiversity & Spatial Mapping Framework (Python Workspace)
+# Quantitative Biodiversity & Spatial Mapping Framework (Python & Jupyter Notebook Workspace)
 
-This repository serves as an independent computational practice framework exploring environmental data science methodologies. It acts as an exploratory extension of my undergraduate zoological biometric research.
+This repository serves as an independent computational practice framework exploring environmental data science methodologies. It acts as an exploratory extension of my Bachelor zoological biometric research.
 
 ## Technical Highlights & Libraries Used
 This practice workspace focuses on applying python-based data analytics and cartographic libraries to ecological data pipelines:
@@ -11,6 +11,5 @@ This practice workspace focuses on applying python-based data analytics and cart
 * **Exploratory Biometrics:** Implemented `scikit-learn` for automated feature scaling, unsupervised Principal Component Analysis (PCA), and generated diagnostic Pearson correlation heatmaps.
 
 ## Repository Structure
-* `/FINAL SEPT2026 geospatial_mapping.ipynb`: Complete Python script for map compilation and cluster tracking.
-* `/fish_map.html`: Compiled interactive HTML spatial map layer.
-* `/8thsemesterdissertation.ipynb`: Practice workbook for multi-variable morphometric regressions.
+* `/_FINAL SEPT2026 geospatial_mapping.ipynb`: Complete Python script for map compilation and cluster tracking.
+* `/regional_spatial_ecology.ipynb`: Practice workbook for multi-variable morphometric regressions.
